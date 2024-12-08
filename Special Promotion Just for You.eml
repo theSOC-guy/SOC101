@@ -1,0 +1,80 @@
+Delivered-To: courses-soc@zohomail.com
+Received-SPF: softfail (zohomail.com: transitioning domain of _spf.google.com does not designate 114.29.236.247 as permitted sender) client-ip=114.29.236.247; envelope-from=kayasante20@gmail.com; helo=emkei.cz;
+Authentication-Results: mx.zohomail.com;
+	spf=softfail (zohomail.com: transitioning domain of _spf.google.com does not designate 114.29.236.247 as permitted sender)  smtp.mailfrom=kayasante20@gmail.com;
+	dmarc=fail(p=none dis=none)  header.from=gmail.com
+Return-Path: <kayasante20@gmail.com>
+Received: from emkei.cz (emkei.cz [114.29.236.247]) by mx.zohomail.com
+	with SMTPS id 1733596506393119.25197006574797; Sat, 7 Dec 2024 10:35:06 -0800 (PST)
+Received: by emkei.cz (Postfix, from userid 33)
+	id 943981302; Sat,  7 Dec 2024 19:34:59 +0100 (CET)
+To: courses-soc@zohomail.com
+Subject: Special Promotion Just for You
+From: "Kay Asante" <kayasante20@gmail.com>
+X-Priority: 3 (Normal)
+Importance: Normal
+Errors-To: kayasante20@gmail.com
+Reply-To: kayasante20@gmail.com
+Content-Type: text/html; charset=utf-8
+Message-Id: <20241207183459.943981302@emkei.cz>
+Date: Sat,  7 Dec 2024 19:34:59 +0100 (CET)
+X-ZohoMail-Owner: <20241207183459.943981302@emkei.cz>+zmo_0_kayasante20@gmail.com
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promotion from Courses-soc</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: 20px auto;
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            color: #ffffff;
+            background-color: #007bff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 12px;
+            color: #aaa;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Special Promotion Just for You!</h1>
+        <p>Dear Valued Customer,</p>
+        <p>We're excited to announce a special promotion for our online courses at Courses-soc! For a limited time, you can enjoy a 20% discount on all courses.</p>
+        <p>Don't miss this opportunity to enhance your skills and knowledge.</p>
+        <a href="https://courses-soc.com" class="button">Explore Courses</a>
+        
+        <div class="footer">
+            <p>Thank you for being a part of our community!</p>
+            <p>For more information, contact us at <a href="mailto:info@courses-soc.com">info@courses-soc.com</a>.</p>
+        </div>
+    </div>
+</body>
+</html>
